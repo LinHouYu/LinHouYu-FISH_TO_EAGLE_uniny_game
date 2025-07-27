@@ -15,5 +15,15 @@
 - `Scripts/`：游戏逻辑与控制系统
 - `UI/`：用户界面与跳转效果
 
+## 📥 获取方式
+
+玩家可以通过以下渠道体验《Fish to Eagle》：
+
+- GitHub 源代码：  
+  [https://github.com/LinHouYu/LinHouYu-FISH_TO_EAGLE_uniny_game](https://github.com/LinHouYu/LinHouYu-FISH_TO_EAGLE_uniny_game)
+
+- Itch.io 游戏发布页面：  
+  [https://zhishifenzi.itch.io/fish-to-eagl](https://zhishifenzi.itch.io/fish-to-eagl)
+
 ## 📝 许可协议
 本项目采用 MIT 开源协议。
