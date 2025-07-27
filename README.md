@@ -9,9 +9,6 @@ Este es un juego desarrollado en Unity donde controlas un pez que aspira a conve
 - Transiciones suaves entre escenas
 - UI multipágina con botones interactivos
 
-## 🧠 Objetivo
-Brindar una experiencia inmersiva que combine estética y funcionalidad, enfatizando prácticas de programación modernas y accesibles para principiantes.
-
 ## 📦 Estructura del proyecto
 - `Assets/`: Recursos del juego (modelos, scripts, prefabs)
 - `ProjectSettings/`: Configuración del proyecto Unity
