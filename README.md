@@ -15,6 +15,16 @@ Este es un juego desarrollado en Unity donde controlas un pez que aspira a conve
 - `Scripts/`: Lógica del juego y sistema de controles
 - `UI/`: Interfaces visuales y transiciones
 
+## Descargar y ver el juego
+
+Puedes acceder al proyecto y descargar el juego desde los siguientes canales:
+
+- Código fuente en GitHub:  
+  [LinHouYu-FISH_TO_EAGLE_uniny_game](https://github.com/LinHouYu/LinHouYu-FISH_TO_EAGLE_uniny_game)
+
+- Página del juego en itch.io:  
+  [Fish to Eagl en itch.io](https://zhishifenzi.itch.io/fish-to-eagl)
+
 ## 📚 Versión en chino
 👉 [点击这里查看中文说明](README.zh-CN.md)
 
